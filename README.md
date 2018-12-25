@@ -1,8 +1,10 @@
 # Kartlin
-It is a joke project to transform Kotlin code to Dart code.
+It is a joke project, which aims to transform Kotlin code into Dart code 
+and I won't finish it.
 
 ## First step (Dart part)
-- [ ] To read Dart SDK API as Kotlin packages/classes/functions. (like an *.knm in Kotlin Native)
+- [ ] Read Dart Language Server Protocol API
+- [ ] transform Dart SDK API into Kotlin packages/classes/functions. (like an *.knm in Kotlin Native)
 
 ### Dart grammars:
 - [ ] TODO

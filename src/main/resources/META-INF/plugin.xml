@@ -1,0 +1,18 @@
+<idea-plugin>
+    <id>com.github.zxj5470.kartlin</id>
+    <name>Kartlin</name>
+    <vendor email="zxj5470@foxmail.com" url="http://www.github.com/zxj5470">zxj5470</vendor>
+    <depends>org.jetbrains.kotlin</depends>
+    <depends>Dart</depends>
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <action class="com.github.zxj5470.kartlin.Action" id="kartlin.action">
+            <add-to-group group-id="ToolsMenu" anchor="last"/>
+        </action>
+        <!-- Add your actions here -->
+    </actions>
+    <version/>
+</idea-plugin>
