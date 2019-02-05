@@ -2,6 +2,8 @@
 It is a joke project, which aims to transform Kotlin code into Dart code 
 and I won't finish it.
 
+Maybe never to start this project until I finish julia-intellij.(Can it be finished?)
+
 ## First step (Dart part)
 - [ ] Read Dart Language Server Protocol API
 - [ ] transform Dart SDK API into Kotlin packages/classes/functions. (like an *.knm in Kotlin Native)
